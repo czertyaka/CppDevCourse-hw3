@@ -5,7 +5,7 @@
 #include <system_error>
 #include <stdexcept>
 
-#include "two-sum.hpp"
+#include "two-sum.cpp"
 
 int read_integer() {
     std::string input;
