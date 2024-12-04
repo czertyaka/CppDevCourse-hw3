@@ -1,0 +1,5 @@
+/mnt/c/Users/Мотя/CPP DPO/CppDevCourse-hw3/build/Release/CMakeFiles/main.dir
+/mnt/c/Users/Мотя/CPP DPO/CppDevCourse-hw3/build/Release/CMakeFiles/two-sum-test.dir
+/mnt/c/Users/Мотя/CPP DPO/CppDevCourse-hw3/build/Release/CMakeFiles/test.dir
+/mnt/c/Users/Мотя/CPP DPO/CppDevCourse-hw3/build/Release/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Мотя/CPP DPO/CppDevCourse-hw3/build/Release/CMakeFiles/rebuild_cache.dir
