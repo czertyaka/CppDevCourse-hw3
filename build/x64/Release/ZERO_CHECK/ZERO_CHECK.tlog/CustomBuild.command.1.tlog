@@ -1,0 +1,10 @@
+^C:\USERS\DELL G3\DESKTOP\DZ_DPO\CPPDEVCOURSE-HW3\BUILD\CMAKEFILES\D3AD80CB6F242F536F3DBD91714C7317\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/Dell G3/Desktop/dz_dpo/CppDevCourse-hw3" "-BC:/Users/Dell G3/Desktop/dz_dpo/CppDevCourse-hw3/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/Dell G3/Desktop/dz_dpo/CppDevCourse-hw3/build/hw-3.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
