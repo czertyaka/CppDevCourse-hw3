@@ -1,0 +1,5 @@
+if(EXISTS "/Users/artyomartyushin/IdeaProjects/elevatorEx/CppDevCourse-hw3/build/Release/two-sum-test[1]_tests.cmake")
+  include("/Users/artyomartyushin/IdeaProjects/elevatorEx/CppDevCourse-hw3/build/Release/two-sum-test[1]_tests.cmake")
+else()
+  add_test(two-sum-test_NOT_BUILT two-sum-test_NOT_BUILT)
+endif()
