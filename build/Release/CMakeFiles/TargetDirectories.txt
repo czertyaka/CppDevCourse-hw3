@@ -1,0 +1,5 @@
+/Users/artyomartyushin/IdeaProjects/elevatorEx/CppDevCourse-hw3/build/Release/CMakeFiles/main.dir
+/Users/artyomartyushin/IdeaProjects/elevatorEx/CppDevCourse-hw3/build/Release/CMakeFiles/two-sum-test.dir
+/Users/artyomartyushin/IdeaProjects/elevatorEx/CppDevCourse-hw3/build/Release/CMakeFiles/test.dir
+/Users/artyomartyushin/IdeaProjects/elevatorEx/CppDevCourse-hw3/build/Release/CMakeFiles/edit_cache.dir
+/Users/artyomartyushin/IdeaProjects/elevatorEx/CppDevCourse-hw3/build/Release/CMakeFiles/rebuild_cache.dir
