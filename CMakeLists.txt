@@ -14,7 +14,7 @@ add_executable(main "${SRC_DIR}/main.cpp" "${SRC_DIR}/two-sum.cpp")
 
 find_package(GTest REQUIRED)
 add_executable(two-sum-test "${TEST_DIR}/test.cpp" "${SRC_DIR}/two-sum.cpp")
-target_link_libraries(two-sum-test PRIVATE gtest::gtest)
+target_link_libraries(two-sum-test PRIVATE GTest::GTest GTest::Main)
 target_compile_options(two-sum-test PRIVATE "-fsanitize=address,undefined")
 target_link_options(two-sum-test PRIVATE "-fsanitize=address,undefined")
 add_test(NAME two-sum-test COMMAND two-sum-test)
