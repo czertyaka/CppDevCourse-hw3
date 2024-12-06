@@ -1,0 +1,5 @@
+/home/stas/CppDevCourse-hw3/build/Release/CMakeFiles/main.dir
+/home/stas/CppDevCourse-hw3/build/Release/CMakeFiles/two-sum-test.dir
+/home/stas/CppDevCourse-hw3/build/Release/CMakeFiles/test.dir
+/home/stas/CppDevCourse-hw3/build/Release/CMakeFiles/edit_cache.dir
+/home/stas/CppDevCourse-hw3/build/Release/CMakeFiles/rebuild_cache.dir

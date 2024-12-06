@@ -1,0 +1,201 @@
+Start testing: Dec 06 22:30 +05
+----------------------------------------------------------
+1/7 Testing: TwoSumsTest.AllPositive
+1/7 Test: TwoSumsTest.AllPositive
+Command: "/home/stas/CppDevCourse-hw3/build/Release/two-sum-test" "--gtest_filter=TwoSumsTest.AllPositive" "--gtest_also_run_disabled_tests"
+Directory: /home/stas/CppDevCourse-hw3/build/Release
+"TwoSumsTest.AllPositive" start time: Dec 06 22:30 +05
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = TwoSumsTest.AllPositive
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TwoSumsTest
+[ RUN      ] TwoSumsTest.AllPositive
+[       OK ] TwoSumsTest.AllPositive (0 ms)
+[----------] 1 test from TwoSumsTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"TwoSumsTest.AllPositive" end time: Dec 06 22:30 +05
+"TwoSumsTest.AllPositive" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/7 Testing: TwoSumsTest.NoSum
+2/7 Test: TwoSumsTest.NoSum
+Command: "/home/stas/CppDevCourse-hw3/build/Release/two-sum-test" "--gtest_filter=TwoSumsTest.NoSum" "--gtest_also_run_disabled_tests"
+Directory: /home/stas/CppDevCourse-hw3/build/Release
+"TwoSumsTest.NoSum" start time: Dec 06 22:30 +05
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = TwoSumsTest.NoSum
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TwoSumsTest
+[ RUN      ] TwoSumsTest.NoSum
+[       OK ] TwoSumsTest.NoSum (0 ms)
+[----------] 1 test from TwoSumsTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"TwoSumsTest.NoSum" end time: Dec 06 22:30 +05
+"TwoSumsTest.NoSum" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/7 Testing: TwoSumsTest.WithZero
+3/7 Test: TwoSumsTest.WithZero
+Command: "/home/stas/CppDevCourse-hw3/build/Release/two-sum-test" "--gtest_filter=TwoSumsTest.WithZero" "--gtest_also_run_disabled_tests"
+Directory: /home/stas/CppDevCourse-hw3/build/Release
+"TwoSumsTest.WithZero" start time: Dec 06 22:30 +05
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = TwoSumsTest.WithZero
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TwoSumsTest
+[ RUN      ] TwoSumsTest.WithZero
+[       OK ] TwoSumsTest.WithZero (0 ms)
+[----------] 1 test from TwoSumsTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"TwoSumsTest.WithZero" end time: Dec 06 22:30 +05
+"TwoSumsTest.WithZero" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/7 Testing: TwoSumsTest.MultiplePairs
+4/7 Test: TwoSumsTest.MultiplePairs
+Command: "/home/stas/CppDevCourse-hw3/build/Release/two-sum-test" "--gtest_filter=TwoSumsTest.MultiplePairs" "--gtest_also_run_disabled_tests"
+Directory: /home/stas/CppDevCourse-hw3/build/Release
+"TwoSumsTest.MultiplePairs" start time: Dec 06 22:30 +05
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = TwoSumsTest.MultiplePairs
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TwoSumsTest
+[ RUN      ] TwoSumsTest.MultiplePairs
+[       OK ] TwoSumsTest.MultiplePairs (0 ms)
+[----------] 1 test from TwoSumsTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"TwoSumsTest.MultiplePairs" end time: Dec 06 22:30 +05
+"TwoSumsTest.MultiplePairs" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/7 Testing: TwoSumsTest.MultiplePairsSameElement
+5/7 Test: TwoSumsTest.MultiplePairsSameElement
+Command: "/home/stas/CppDevCourse-hw3/build/Release/two-sum-test" "--gtest_filter=TwoSumsTest.MultiplePairsSameElement" "--gtest_also_run_disabled_tests"
+Directory: /home/stas/CppDevCourse-hw3/build/Release
+"TwoSumsTest.MultiplePairsSameElement" start time: Dec 06 22:30 +05
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = TwoSumsTest.MultiplePairsSameElement
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TwoSumsTest
+[ RUN      ] TwoSumsTest.MultiplePairsSameElement
+[       OK ] TwoSumsTest.MultiplePairsSameElement (0 ms)
+[----------] 1 test from TwoSumsTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"TwoSumsTest.MultiplePairsSameElement" end time: Dec 06 22:30 +05
+"TwoSumsTest.MultiplePairsSameElement" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/7 Testing: TwoSumsTest.LastElement
+6/7 Test: TwoSumsTest.LastElement
+Command: "/home/stas/CppDevCourse-hw3/build/Release/two-sum-test" "--gtest_filter=TwoSumsTest.LastElement" "--gtest_also_run_disabled_tests"
+Directory: /home/stas/CppDevCourse-hw3/build/Release
+"TwoSumsTest.LastElement" start time: Dec 06 22:30 +05
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+Note: Google Test filter = TwoSumsTest.LastElement
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TwoSumsTest
+[ RUN      ] TwoSumsTest.LastElement
+[       OK ] TwoSumsTest.LastElement (0 ms)
+[----------] 1 test from TwoSumsTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"TwoSumsTest.LastElement" end time: Dec 06 22:30 +05
+"TwoSumsTest.LastElement" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/7 Testing: two-sum-test
+7/7 Test: two-sum-test
+Command: "/home/stas/CppDevCourse-hw3/build/Release/two-sum-test"
+Directory: /home/stas/CppDevCourse-hw3/build/Release
+"two-sum-test" start time: Dec 06 22:30 +05
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+[==========] Running 6 tests from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 6 tests from TwoSumsTest
+[ RUN      ] TwoSumsTest.AllPositive
+[       OK ] TwoSumsTest.AllPositive (0 ms)
+[ RUN      ] TwoSumsTest.NoSum
+[       OK ] TwoSumsTest.NoSum (0 ms)
+[ RUN      ] TwoSumsTest.WithZero
+[       OK ] TwoSumsTest.WithZero (0 ms)
+[ RUN      ] TwoSumsTest.MultiplePairs
+[       OK ] TwoSumsTest.MultiplePairs (0 ms)
+[ RUN      ] TwoSumsTest.MultiplePairsSameElement
+[       OK ] TwoSumsTest.MultiplePairsSameElement (0 ms)
+[ RUN      ] TwoSumsTest.LastElement
+[       OK ] TwoSumsTest.LastElement (0 ms)
+[----------] 6 tests from TwoSumsTest (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 6 tests from 1 test suite ran. (1 ms total)
+[  PASSED  ] 6 tests.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"two-sum-test" end time: Dec 06 22:30 +05
+"two-sum-test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Dec 06 22:30 +05
