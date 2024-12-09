@@ -1,7 +1,5 @@
 #include "two-sum.hpp"
 
-#define ARRAY_SIZE 5
-
 bool two_sum(
     const int nums[ARRAY_SIZE],
     const int target,
