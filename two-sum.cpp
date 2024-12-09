@@ -6,17 +6,17 @@
      const int nums[ARRAY_SIZE],
      const int target,
      std::size_t& index0,
- std::size_t и index1
+     std::size_t& index1
 )
 {
     for(int i = 0; i < ARRAY_SIZE - 1; i++)
     {
         for(int j = i+1; j < ARRAY_SIZE; j++)
         {
- if(nums[i]+nums[j] == цель)
+            if(nums[i]+nums[j] == target)
             {
                 index0 = i;
- индекс1 = j;
+                index1 = j;
                 return true;
             }
         }
