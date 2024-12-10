@@ -1,5 +1,4 @@
-#define ARRAY_SIZE 5
-#include <iostream>
+#include "two-sum.hpp"
 
 bool two_sum(
     const int nums[ARRAY_SIZE],
@@ -11,16 +10,11 @@ bool two_sum(
 {
     index0 = 0;
     index1 = 0;
-    for(int i = 0; i < ARRAY_SIZE-1; ++i) {
-        for(int j = i+1; j < ARRAY_SIZE; ++j) {
-            if ((nums[i]+nums[j] == target)&&(i!=j)) {
-                if (i<j) {
-                    index0 = i;
-                    index1 = j;
-                } else {
-                    index0 = j;
-                    index1 = i;
-                }
+    for(unsigned int i = 0; i < ARRAY_SIZE-1; ++i) {
+        for(unsigned int j = i+1; j < ARRAY_SIZE; ++j) {
+            if (nums[i]+nums[j] == target) {
+                index0 = i;
+                index1 = j;
                 break;
             }
         }
