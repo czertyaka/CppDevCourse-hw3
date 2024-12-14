@@ -1,1 +1,0 @@
-. "/Users/artyomartyushin/IdeaProjects/elevatorEx/CppDevCourse-hw3/build/Release/generators/deactivate_conanrunenv-release-armv8.sh"
