@@ -16,16 +16,4 @@ bool two_sum(const int nums[ARRAY_SIZE], const int target, std::size_t& index0, 
     return false; // Пара не найдена
 }
 
-int main() {
-    int nums[ARRAY_SIZE] = {2, 7, 11, 15, 3};
-    int target = 10;
-    std::size_t index0, index1;
 
-    if (two_sum(nums, target, index0, index1)) {
-        std::cout << "Найдена пара: индексы " << index0 << " и " << index1 << std::endl;
-    } else {
-        std::cout << "Пара не найдена." << std::endl;
-    }
-
-    return 0;
-}
