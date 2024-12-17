@@ -6,9 +6,9 @@ bool two_sum(const int nums[ARRAY_SIZE],
 	std::size_t& index1
 )
 {
-	for (unsigned int i = 0; i < ARRAY_SIZE; i++)
+	for (unsigned int i = 0; i < ARRAY_SIZE-1; i++)
 	{
-		for (unsigned int j = i + 1; j <= ARRAY_SIZE; j++)
+		for (unsigned int j = i + 1; j < ARRAY_SIZE; j++)
 		{
 			if (nums[i] + nums[j] == target)
 			{
